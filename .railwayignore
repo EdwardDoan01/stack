@@ -1,0 +1,13 @@
+# Railway ignore file - allow Dockerfile for forced Docker builds
+docker-compose.yml
+nginx.conf
+deploy.sh
+deploy-local.sh
+deploy-heroku.sh
+deploy-railway.sh
+build.sh
+start.sh
+*.md
+.git
+.gitignore
+requirements-backup.txt
